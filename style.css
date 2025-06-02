@@ -208,6 +208,9 @@ section{
 }
 .btn-container{
     gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .icon{
     height: 2rem;
