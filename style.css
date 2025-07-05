@@ -280,8 +280,8 @@ section{
     flex-wrap: wrap;
     text-align: initial;
     flex-direction: row;
-    gap: 2.5rem;
-    justify-content: space-around;
+    gap: 1.5rem;
+    justify-content: flex-start;
 }
 article{
     display: flex;
