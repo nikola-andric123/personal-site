@@ -313,8 +313,7 @@ article .icon{
     height: 70%;
 }
 .project-img-logo-2{
-    border-radius: 2rem;
-    margin-top: -1rem;
+    border-radius: 15px;
     width: 30%;
     height: 30%;
 }
